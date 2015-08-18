@@ -1,0 +1,34 @@
+.title
+{
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
+
+.description{
+	text-align: left;
+	background-color: gray;	
+	border-left-style: groove;
+	padding-right: 200px;
+	width: 1000px;
+	color: yellow;
+}
+
+.image{
+	width: 300px;
+	position: relative;
+	left: 20px;
+}
+
+.chart{
+	width: 100px;
+	height: 100px;
+}
+
+.circleclass{
+	stroke:green;
+	fill:white;
+	stroke-width:5px;
+	cx:25px; 
+	cy:25px;
+}
